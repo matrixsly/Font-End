@@ -1,11 +1,11 @@
-h1{
-     text-align: center; background: darkgrey;
-}
-
-p {
+body {
+     background: #CCCCCC
+ }
+ 
+ p {
      text-align: center;
-     font-size: 20px;
-     background: darkgrey;
-
-}
-
+ }
+ 
+ em strong {
+     color: #FF0000;
+ }
